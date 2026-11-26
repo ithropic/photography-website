@@ -1,0 +1,4 @@
+# Full-size originals are large; only the generated images/ and photos.js are deployed.
+source/
+__pycache__/
+.DS_Store
