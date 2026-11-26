@@ -1050,21 +1050,6 @@ window.PHOTOS = [
     "srcset": [
       {
         "width": 800,
-        "url": "images/dsc04965-800.webp"
-      },
-      {
-        "width": 1600,
-        "url": "images/dsc04965-1600.webp"
-      }
-    ],
-    "width": 2441,
-    "height": 3254,
-    "alt": "Photograph 71"
-  },
-  {
-    "srcset": [
-      {
-        "width": 800,
         "url": "images/dsc04971-1-800.webp"
       },
       {
@@ -1074,7 +1059,7 @@ window.PHOTOS = [
     ],
     "width": 3648,
     "height": 2736,
-    "alt": "Photograph 72"
+    "alt": "Photograph 71"
   },
   {
     "srcset": [
@@ -1089,7 +1074,7 @@ window.PHOTOS = [
     ],
     "width": 3400,
     "height": 2548,
-    "alt": "Photograph 73"
+    "alt": "Photograph 72"
   },
   {
     "srcset": [
@@ -1104,7 +1089,7 @@ window.PHOTOS = [
     ],
     "width": 3648,
     "height": 2736,
-    "alt": "Photograph 74"
+    "alt": "Photograph 73"
   },
   {
     "srcset": [
@@ -1119,7 +1104,7 @@ window.PHOTOS = [
     ],
     "width": 2736,
     "height": 3648,
-    "alt": "Photograph 75"
+    "alt": "Photograph 74"
   },
   {
     "srcset": [
@@ -1134,7 +1119,7 @@ window.PHOTOS = [
     ],
     "width": 820,
     "height": 1640,
-    "alt": "Photograph 76"
+    "alt": "Photograph 75"
   },
   {
     "srcset": [
@@ -1149,7 +1134,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 77"
+    "alt": "Photograph 76"
   },
   {
     "srcset": [
@@ -1164,7 +1149,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 78"
+    "alt": "Photograph 77"
   },
   {
     "srcset": [
@@ -1179,7 +1164,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 79"
+    "alt": "Photograph 78"
   },
   {
     "srcset": [
@@ -1194,7 +1179,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 80"
+    "alt": "Photograph 79"
   },
   {
     "srcset": [
@@ -1209,7 +1194,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 81"
+    "alt": "Photograph 80"
   },
   {
     "srcset": [
@@ -1224,7 +1209,7 @@ window.PHOTOS = [
     ],
     "width": 4238,
     "height": 3390,
-    "alt": "Photograph 82"
+    "alt": "Photograph 81"
   },
   {
     "srcset": [
@@ -1239,7 +1224,7 @@ window.PHOTOS = [
     ],
     "width": 4579,
     "height": 3052,
-    "alt": "Photograph 83"
+    "alt": "Photograph 82"
   },
   {
     "srcset": [
@@ -1254,7 +1239,7 @@ window.PHOTOS = [
     ],
     "width": 4565,
     "height": 3043,
-    "alt": "Photograph 84"
+    "alt": "Photograph 83"
   },
   {
     "srcset": [
@@ -1269,7 +1254,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 85"
+    "alt": "Photograph 84"
   },
   {
     "srcset": [
@@ -1284,7 +1269,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 86"
+    "alt": "Photograph 85"
   },
   {
     "srcset": [
@@ -1299,7 +1284,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 87"
+    "alt": "Photograph 86"
   },
   {
     "srcset": [
@@ -1314,22 +1299,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 88"
-  },
-  {
-    "srcset": [
-      {
-        "width": 800,
-        "url": "images/p2050047-2-800.webp"
-      },
-      {
-        "width": 1600,
-        "url": "images/p2050047-2-1600.webp"
-      }
-    ],
-    "width": 4608,
-    "height": 3072,
-    "alt": "Photograph 89"
+    "alt": "Photograph 87"
   },
   {
     "srcset": [
@@ -1344,7 +1314,7 @@ window.PHOTOS = [
     ],
     "width": 3071,
     "height": 3072,
-    "alt": "Photograph 90"
+    "alt": "Photograph 88"
   },
   {
     "srcset": [
@@ -1359,22 +1329,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 91"
-  },
-  {
-    "srcset": [
-      {
-        "width": 800,
-        "url": "images/p2050054-2-800.webp"
-      },
-      {
-        "width": 1600,
-        "url": "images/p2050054-2-1600.webp"
-      }
-    ],
-    "width": 3322,
-    "height": 2215,
-    "alt": "Photograph 92"
+    "alt": "Photograph 89"
   },
   {
     "srcset": [
@@ -1389,22 +1344,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 93"
-  },
-  {
-    "srcset": [
-      {
-        "width": 800,
-        "url": "images/p2050066-2-800.webp"
-      },
-      {
-        "width": 1600,
-        "url": "images/p2050066-2-1600.webp"
-      }
-    ],
-    "width": 4608,
-    "height": 3072,
-    "alt": "Photograph 94"
+    "alt": "Photograph 90"
   },
   {
     "srcset": [
@@ -1419,7 +1359,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 95"
+    "alt": "Photograph 91"
   },
   {
     "srcset": [
@@ -1434,7 +1374,7 @@ window.PHOTOS = [
     ],
     "width": 4266,
     "height": 2844,
-    "alt": "Photograph 96"
+    "alt": "Photograph 92"
   },
   {
     "srcset": [
@@ -1449,7 +1389,7 @@ window.PHOTOS = [
     ],
     "width": 2304,
     "height": 3455,
-    "alt": "Photograph 97"
+    "alt": "Photograph 93"
   },
   {
     "srcset": [
@@ -1464,7 +1404,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 98"
+    "alt": "Photograph 94"
   },
   {
     "srcset": [
@@ -1479,7 +1419,7 @@ window.PHOTOS = [
     ],
     "width": 4608,
     "height": 3072,
-    "alt": "Photograph 99"
+    "alt": "Photograph 95"
   },
   {
     "srcset": [
@@ -1494,7 +1434,7 @@ window.PHOTOS = [
     ],
     "width": 4532,
     "height": 3022,
-    "alt": "Photograph 100"
+    "alt": "Photograph 96"
   },
   {
     "srcset": [
@@ -1509,7 +1449,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 101"
+    "alt": "Photograph 97"
   },
   {
     "srcset": [
@@ -1520,7 +1460,7 @@ window.PHOTOS = [
     ],
     "width": 720,
     "height": 1080,
-    "alt": "Photograph 102"
+    "alt": "Photograph 98"
   },
   {
     "srcset": [
@@ -1535,7 +1475,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 103"
+    "alt": "Photograph 99"
   },
   {
     "srcset": [
@@ -1550,7 +1490,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 104"
+    "alt": "Photograph 100"
   },
   {
     "srcset": [
@@ -1565,7 +1505,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 105"
+    "alt": "Photograph 101"
   },
   {
     "srcset": [
@@ -1580,7 +1520,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 106"
+    "alt": "Photograph 102"
   },
   {
     "srcset": [
@@ -1595,7 +1535,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 107"
+    "alt": "Photograph 103"
   },
   {
     "srcset": [
@@ -1610,7 +1550,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 108"
+    "alt": "Photograph 104"
   },
   {
     "srcset": [
@@ -1625,7 +1565,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 109"
+    "alt": "Photograph 105"
   },
   {
     "srcset": [
@@ -1640,7 +1580,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 1280,
-    "alt": "Photograph 110"
+    "alt": "Photograph 106"
   },
   {
     "srcset": [
@@ -1655,7 +1595,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 1366,
-    "alt": "Photograph 111"
+    "alt": "Photograph 107"
   },
   {
     "srcset": [
@@ -1670,7 +1610,7 @@ window.PHOTOS = [
     ],
     "width": 1366,
     "height": 2048,
-    "alt": "Photograph 112"
+    "alt": "Photograph 108"
   },
   {
     "srcset": [
@@ -1685,7 +1625,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 2048,
-    "alt": "Photograph 113"
+    "alt": "Photograph 109"
   },
   {
     "srcset": [
@@ -1700,7 +1640,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 2048,
-    "alt": "Photograph 114"
+    "alt": "Photograph 110"
   },
   {
     "srcset": [
@@ -1715,7 +1655,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 1639,
-    "alt": "Photograph 115"
+    "alt": "Photograph 111"
   },
   {
     "srcset": [
@@ -1730,7 +1670,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 1639,
-    "alt": "Photograph 116"
+    "alt": "Photograph 112"
   },
   {
     "srcset": [
@@ -1745,7 +1685,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 1366,
-    "alt": "Photograph 117"
+    "alt": "Photograph 113"
   },
   {
     "srcset": [
@@ -1760,7 +1700,7 @@ window.PHOTOS = [
     ],
     "width": 2048,
     "height": 1639,
-    "alt": "Photograph 118"
+    "alt": "Photograph 114"
   },
   {
     "srcset": [
@@ -1775,7 +1715,7 @@ window.PHOTOS = [
     ],
     "width": 1639,
     "height": 2048,
-    "alt": "Photograph 119"
+    "alt": "Photograph 115"
   },
   {
     "srcset": [
@@ -1786,7 +1726,7 @@ window.PHOTOS = [
     ],
     "width": 720,
     "height": 1080,
-    "alt": "Photograph 120"
+    "alt": "Photograph 116"
   },
   {
     "srcset": [
@@ -1801,7 +1741,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 121"
+    "alt": "Photograph 117"
   },
   {
     "srcset": [
@@ -1816,7 +1756,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 122"
+    "alt": "Photograph 118"
   },
   {
     "srcset": [
@@ -1831,7 +1771,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 1080,
-    "alt": "Photograph 123"
+    "alt": "Photograph 119"
   },
   {
     "srcset": [
@@ -1846,7 +1786,7 @@ window.PHOTOS = [
     ],
     "width": 2765,
     "height": 3456,
-    "alt": "Photograph 124"
+    "alt": "Photograph 120"
   },
   {
     "srcset": [
@@ -1861,7 +1801,7 @@ window.PHOTOS = [
     ],
     "width": 1080,
     "height": 720,
-    "alt": "Photograph 125"
+    "alt": "Photograph 121"
   },
   {
     "srcset": [
@@ -1876,6 +1816,6 @@ window.PHOTOS = [
     ],
     "width": 865,
     "height": 1080,
-    "alt": "Photograph 126"
+    "alt": "Photograph 122"
   }
 ];
